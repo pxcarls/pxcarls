@@ -6,7 +6,7 @@
   Sou amante do mundo automobilistico e amante da tecnologia, Sou Desenvolvedor Front-End, Ux e UI design.
 </div>
 
-<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<h2 align="center" >⚒️ Linguagens & Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=,html,css,js,java,cpp,php,py,vscode,github,figma,ps" />
